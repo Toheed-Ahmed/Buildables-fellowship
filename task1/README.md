@@ -25,7 +25,12 @@ A simple and beginner-friendly HTML contact page that allows users to **send mes
 
 ### 🖼️ Contact Form Section
 
+<<<<<<< HEAD
 ![Contact Form Section](./task1/Screenshot1.png)
+=======
+![Contact Form Section](Screenshot1.png)
+
+>>>>>>> 6c1704e988700401c4e3ff4793a762c823b52f05
 
 ---
 
