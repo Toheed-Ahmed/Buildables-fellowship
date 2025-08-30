@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Us - Our Company</title>
+  </head>
+  <body>
+    <h1>Contact Our Company</h1>
+    <p>We'd love to hear from you!</p>
+
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+
+    <h2>Send us a Message</h2>
+    <form action="#">
+      <fieldset>
+        <legend>Personal Information</legend>
+        <label for="name">Full Name:</label>
+        <input
+          type="text"
+          id="name"
+          placeholder="Enter your full name"
+          required
+        /><br /><br />
+
+        <label for="email">Email Address:</label>
+        <input
+          type="email"
+          id="email"
+          placeholder="Enter your email"
+          required
+        /><br /><br />
+
+        <label for="phone">Phone Number:</label>
+        <input
+          type="text"
+          id="phone"
+          placeholder="03X-XXXXXXX-X"
+          required
+        /><br />
+        <small>Format: 03X-XXXXXXX-X</small>
+      </fieldset>
+
+      <fieldset>
+        <legend>Your Message</legend>
+        <label for="subject">Subject:</label>
+        <select id="subject" required>
+          <option value="">Select a subject</option>
+          <option value="feedback">Feedback</option>
+          <option value="inquiry">Inquiry</option>
+          <option value="support">Support</option></select
+        ><br /><br />
+
+        <label for="message">Message:</label><br />
+        <textarea
+          id="message"
+          name="message"
+          placeholder="Type your message here..."
+          required
+        ></textarea
+        ><br /><br />
+
+        <label><input type="checkbox" id="urgent" /> Mark as urgent</label
+        ><br /><br />
+
+        Preferred contact method:<br />
+        <label
+          ><input type="radio" name="contact" value="email" required />
+          Email</label
+        >
+        <label
+          ><input type="radio" name="contact" value="phone" required />
+          Phone</label
+        >
+      </fieldset>
+      <br />
+
+      <input type="submit" value="Send Message" />
+      <input type="reset" value="Clear Form" />
+    </form>
+
+    <h2>Our Location</h2>
+    <p>Gulshan-e-Iqbal, Karachi</p>
+    <p>Sindh, Pakistan</p>
+
+    <h2>Office Hours</h2>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <tr>
+        <th>Day</th>
+        <th>Hours</th>
+      </tr>
+      <tr>
+        <td>Monday - Friday</td>
+        <td>9:00 AM - 5:00 PM</td>
+      </tr>
+      <tr>
+        <td>Saturday</td>
+        <td>10:00 AM - 2:00 PM</td>
+      </tr>
+      <tr>
+        <td>Sunday</td>
+        <td>Closed</td>
+      </tr>
+    </table>
+
+    <p>© 2023 Our Company. All rights reserved.</p>
+    <p>
+      <a href="#">Privacy Policy</a> |
+      <a href="#">Terms of Service</a>
+    </p>
+  </body>
+</html>
