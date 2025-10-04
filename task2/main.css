@@ -1,6 +1,6 @@
-/* Overall background */
+
 body {
-    background-color: #121212;
+    background: #121212;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,16 +10,15 @@ body {
     color: #fff;
 }
 
-/* Card container */
+
 .card {
-    background-color: #1f1f1f;
+    background: #1f1f1f;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
     width: 300px;
 }
 
-/* Profile Image */
 .profile-img {
     width: 100px;
     height: 100px;
@@ -27,37 +26,38 @@ body {
     margin-bottom: 15px;
 }
 
-/* Name */
+
 .name {
     font-size: 1.5rem;
     margin: 10px 0;
 }
 
-/* Location */
+
 .location {
-    color: #a3d900; /* greenish text */
+    color: #a3d900; 
     margin-bottom: 15px;
 }
 
-/* Description */
+
 .description {
     font-style: italic;
     font-size: 0.9rem;
     margin-bottom: 25px;
 }
 
-/* Buttons */
+
 .buttons .btn {
     display: block;
-    background-color: #333;
+    background: #333;
     color: #fff;
     text-decoration: none;
     padding: 12px;
     border-radius: 8px;
     margin-bottom: 12px;
-    transition: background-Color 0.3s;
+    transition: background-color 0.3s;
 }
 
+
 .buttons .btn:hover {
-    background-color: #444;
+    background: #444;
 }
