@@ -103,8 +103,9 @@ Loruki-website-master/
 **Toheed Ahmed**  
 Frontend Developer | Web Designer  
 
-🌐 [GitHub Profile](https://github.com/toheedahmed)  
-📧 toheedahmed@example.com  
+🌐 [[GitHub Profile](https://github.com/toheedahmed)]
+
+📧 kalwartoheed060@gmail.com  
 
 > _“Design is not just what it looks like and feels like. Design is how it works.”_  
 
