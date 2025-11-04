@@ -103,7 +103,7 @@ Loruki-website-master/
 **Toheed Ahmed**  
 Frontend Developer | Web Designer  
 
-🌐 [[GitHub Profile](https://github.com/toheedahmed)]
+🌐 [GitHub Profile] [https://github.com/Toheed-Ahmed ] 
 
 📧 kalwartoheed060@gmail.com  
 
